@@ -10,7 +10,7 @@ export default function Topbar({menuOpen, setMenuOpen}) {
                     <a href = "#intro" className = "logo">Luffy</a>
                     <div className = "itemContainer">
                         <Person className = "icon" />
-                        <span>+35 9484 3424</span>
+                        <span>623 225 9745</span>
                     </div>
                     <div className = "itemContainer">
                         <Mail className = "icon" />
