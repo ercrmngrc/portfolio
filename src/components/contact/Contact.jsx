@@ -14,7 +14,9 @@ export default function Contact() {
     return (
         <div className = "contact" id = "contact">
             <div className = "left">
-                <img src = "https://lh3.googleusercontent.com/proxy/x9__WRmYiRr5NZEC4_GhM9hA3rqI4cc2s6V0WbdmZW7tRBn1gznsY0H5lkq50RMuU_iXLz_v40LnwvWEgUMFamCGRk308VY" alt="" />
+                <div className = "imgContainer">
+                    <img src = "https://www.nicepng.com/png/detail/277-2774202_handshake-clipart-shake-hands-clipart-png.png" alt="" />
+                </div>
             </div>
             <div className = "right">
                 <h2>Contact.</h2>
